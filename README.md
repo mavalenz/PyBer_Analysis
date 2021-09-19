@@ -9,13 +9,13 @@
 	- The fares for each city type.
 	- The number of drivers for each city type.
 - A pie chart that visualizes each of the following data for each city type:
-	-The percent of total fares.
-	-The percent of total rides.
-	-The percent of total drivers.
+	- The percent of total fares.
+	- The percent of total rides.
+	- The percent of total drivers.
 - The mean, median, and mode for the following:
-	-The total number of rides for each city type.
-	-The average fares for each city type.
-	-The total number of drivers for each city type.
+	- The total number of rides for each city type.
+	- The average fares for each city type.
+	- The total number of drivers for each city type.
 - A multiple-line graph that shows the total weekly fares for each city type.
 
 ## Results
